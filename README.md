@@ -1,7 +1,11 @@
+![1683000242930](https://user-images.githubusercontent.com/112707550/236666476-312eb2dc-1a8d-4812-afeb-3c428107009f.jpeg)
 <h1 align="center">Hi 👋, I'm Ronak Vala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Data Enthusiast specializing in Python,Machine learning,Deep Learning,NLP,Computer Vision</h3>
 <img align="right"alt="coding"width="400"src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnvala&label=Profile%20views&color=0e75b6&style=flat" alt="rnvala" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ronakva54706783" target="blank"><img src="https://img.shields.io/twitter/follow/ronakva54706783?logo=twitter&style=for-the-badge" alt="ronakva54706783" /></a> </p>
 
 - 🌱 I’m currently learning **TensorFlow,pyTorch**
 
