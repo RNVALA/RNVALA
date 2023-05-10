@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnvala&show_icons=true&locale=en" alt="rnvala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnvala&" alt="rnvala" /></p>
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <br/>
 <br/>
-![](https://github-profile-trophy.vercel.app/?username=rnvala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rnvala&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
